@@ -27,7 +27,6 @@ Welcome to my GitHub! I'm a **Backend Developer** who loves designing clean, sca
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge&logo=microservices&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,6 +48,7 @@ Welcome to my GitHub! I'm a **Backend Developer** who loves designing clean, sca
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF9800?style=for-the-badge&logo=microservices&logoColor=white)
 
 ---
 
